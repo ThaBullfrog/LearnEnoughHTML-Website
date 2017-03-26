@@ -1,0 +1,4 @@
+<files README.md>
+order allow,deny
+deny from all
+</files>
